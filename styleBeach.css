@@ -1,0 +1,40 @@
+h1 {
+    font-size: 72px;
+    background: -webkit-linear-gradient(yellow, blue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  #div1 {
+    width: auto;
+    height: auto;
+    border: 1px solid rgb(255, 255, 255);
+    box-sizing: border-box;
+  }
+  
+  #Warn-ple {
+    font-size: 72px;
+    background: -webkit-linear-gradient(yellow, blue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: auto solid white;
+    
+
+  }
+
+  html {
+    background-color: rgb(0, 0, 0);
+ 
+  }
+  #BRO {
+    width: auto;
+    height: auto;
+    border: 1px solid black;
+    box-sizing: border-box;
+  }
+
+  #WARNINGIC {
+    width: 100px;
+    height: 100px;
+  }
+

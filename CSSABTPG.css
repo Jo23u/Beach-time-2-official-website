@@ -1,0 +1,24 @@
+html {
+    background-color: black;
+    text-decoration-color: white;
+}
+
+h1 {
+    font-size: 72px;
+    background: -webkit-linear-gradient(yellow, blue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  p {
+    color: white;
+  }
+  h2 {
+    color: lightcoral;
+  }
+  ul {
+    color: white;
+  }
+  h3 {
+    color: blue;
+  }
